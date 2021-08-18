@@ -20,8 +20,8 @@ class About extends React.Component {
                 <p><strong> Hujan is in early stages!</strong> </p>
                 <p><strong> Made for the Hack Africa || Polygon</strong> </p>
                 </p>
-
-                <iframe width="1280" height="720" src="https://youtu.be/AMGCmSqAso4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                
+                <iframe width="1280" height="720" src="https://www.youtube.com/embed/AMGCmSqAso4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 
                 <p align="justify">
                 <h4>What is Hujan</h4>
